@@ -1,1 +1,1 @@
-A simple math MCQ-Game build using JavaScript which helps you to increase your calculation skills. Each round is of 60 seconds and each correct answer will get you 1 point.
+A simple math MCQ-Game build using JavaScript which helps you to increase your calculation skills. Each round is of 60 seconds and each correct answer will get you 1 point and finally score is displayed.
